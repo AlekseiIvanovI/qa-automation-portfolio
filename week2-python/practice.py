@@ -1,4 +1,9 @@
 # Mad Libs Generator
+from datetime import datetime
+import string
+import random
+
+
 def mad_libs_gen():
     noun = input("Enter a noun: ")
     verb = input("Enter a verb: ")
@@ -170,3 +175,33 @@ def login_func():
 
 
 login_func()
+
+
+# practice_2025.py
+# Daily practice – pure Python muscle memory
+
+
+def fake_email():
+    domains = ["gmail.com", "yahoo.com", "outlook.com", "company.org"]
+    name = ''.join(random.choices(string.ascii_lowercase, k=8))
+    return f"{name}@{random.choice(domains)}"
+
+
+def random_phone():
+    return f"({random.randint(200, 999)}) {random.randint(200, 999)}-{random.randint(1000, 9999)}"
+
+
+def generate_user_id():
+    return "USR-" + ''.join(random.choices(string.ascii_uppercase + string.digits, k=8))
+
+
+# Demo
+if __name__ == "__main__":
+    print("Daily Practice – 2025-12-??")
+    print("-" * 40)
+    for i in range(1, 6):
+        print(f"User {i:02d}")
+        print(f"   ID    : {generate_user_id()}")
+        print(f"   Email : {fake_email()}")
+        print(f"   Phone : {random_phone()}")
+        print()
