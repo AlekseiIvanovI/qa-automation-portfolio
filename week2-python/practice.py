@@ -177,10 +177,6 @@ def login_func():
 login_func()
 
 
-# practice_2025.py
-# Daily practice – pure Python muscle memory
-
-
 def fake_email():
     domains = ["gmail.com", "yahoo.com", "outlook.com", "company.org"]
     name = ''.join(random.choices(string.ascii_lowercase, k=8))
