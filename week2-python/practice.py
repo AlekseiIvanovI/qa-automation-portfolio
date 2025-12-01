@@ -201,3 +201,30 @@ if __name__ == "__main__":
         print(f"   Email : {fake_email()}")
         print(f"   Phone : {random_phone()}")
         print()
+
+
+# Tip Calculator
+def tip_calc():
+    while True:
+        try:
+            bill = float(input("Total bill amount: $"))
+            if bill < 0:
+                print("Bill can't be negative!")
+                continue
+            break
+        except:
+            print("Enter a valid number!")
+
+    while True:
+        tip = input("Tip percentage (10/15/20): ")
+        if tip in ["10", "15", "20"]:
+            tip = int(tip)
+            break
+        print("Choose 10, 15 or 20%")
+
+    tip_amount = bill * tip / 100
+    total = bill + tip_amount
+
+    print(f"Tip amount  : ${tip_amount:.2f}")
+    print(f"Total       : ${total:.2f}")
+    print("-" * 30)
