@@ -66,7 +66,7 @@ class PasswordValidator():
 
 
 if __name__ == "__main__":
-    print("Password Manager – Senior QA Practice Tool")
+    print("Password Manager")
     print("=" * 55)
 
     manager = PasswordManager()
