@@ -1,4 +1,3 @@
-# Mad Libs Generator
 from datetime import datetime
 import string
 import random
