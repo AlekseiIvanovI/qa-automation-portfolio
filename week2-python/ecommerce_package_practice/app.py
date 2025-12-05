@@ -14,6 +14,7 @@ from ecommerce.shopping import sales
 
 sales.calc_tax()
 sales.calc_shipping()
+sales.contact.contact_customer()
 # print(dir(sales))
 # print(sales.__name__)
 # print(sales.__package__)
