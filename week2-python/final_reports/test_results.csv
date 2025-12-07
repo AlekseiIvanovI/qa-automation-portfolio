@@ -1,0 +1,51 @@
+name,status,duration,tags
+test_either_16,PASS,3.84,['ui']
+test_computer_25,PASS,10.98,['regression']
+test_various_9,PASS,12.85,"['ui', 'api', 'regression']"
+test_wife_43,PASS,0.82,['api']
+test_occur_15,PASS,1.91,['api']
+test_to_38,PASS,10.75,"['regression', 'critical']"
+test_read_37,PASS,5.7,[]
+test_travel_18,PASS,8.37,"['api', 'regression', 'ui']"
+test_board_17,PASS,2.67,"['smoke', 'api', 'regression']"
+test_great_40,PASS,7.15,['smoke']
+test_data_11,PASS,14.75,[]
+test_whether_7,PASS,6.72,"['critical', 'ui']"
+test_whose_27,PASS,4.64,['api']
+test_notice_44,PASS,13.84,[]
+test_interview_24,PASS,13.04,['smoke']
+test_great_40,PASS,5.72,[]
+test_either_16,PASS,0.73,"['smoke', 'critical']"
+test_authority_19,PASS,10.07,[]
+test_particularly_39,PASS,12.9,"['ui', 'critical']"
+test_yeah_41,PASS,11.94,"['regression', 'smoke']"
+test_travel_18,PASS,11.0,['ui']
+test_law_31,PASS,1.54,['smoke']
+test_evening_21,PASS,10.03,['api']
+test_near_2,PASS,14.82,"['critical', 'smoke', 'regression']"
+test_board_17,PASS,14.27,"['smoke', 'critical', 'ui']"
+test_door_35,PASS,8.0,"['critical', 'smoke']"
+test_data_11,PASS,10.38,"['api', 'ui', 'critical']"
+test_instead_1,PASS,13.79,['api']
+test_to_38,FAIL,9.33,[]
+test_data_11,PASS,5.68,"['critical', 'api', 'regression']"
+test_instead_1,PASS,12.1,"['smoke', 'regression']"
+test_interview_24,PASS,4.41,"['critical', 'regression']"
+test_kind_29,PASS,14.65,"['regression', 'critical']"
+test_either_16,PASS,6.43,"['ui', 'smoke']"
+test_board_13,PASS,13.16,['regression']
+test_bad_30,PASS,3.02,"['smoke', 'critical', 'regression']"
+test_law_31,PASS,6.45,"['api', 'smoke']"
+test_notice_44,PASS,11.86,"['api', 'ui', 'smoke']"
+test_wife_43,PASS,12.24,"['critical', 'api']"
+test_authority_19,PASS,8.64,"['regression', 'ui', 'api']"
+test_to_38,PASS,8.73,"['critical', 'api']"
+test_travel_18,PASS,8.25,[]
+test_hope_10,PASS,4.84,"['critical', 'smoke']"
+test_quite_42,FAIL,1.27,['ui']
+test_kind_29,PASS,3.2,['smoke']
+test_kind_29,PASS,8.72,"['ui', 'api', 'regression']"
+test_whether_7,PASS,3.0,"['critical', 'api', 'smoke']"
+test_whose_27,PASS,8.51,[]
+test_evening_21,PASS,12.48,['ui']
+test_wind_48,PASS,6.43,['api']
