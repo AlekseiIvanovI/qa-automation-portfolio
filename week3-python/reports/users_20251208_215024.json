@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "username": "user2928",
+    "email": "user1@qa.test",
+    "password": "SEVN!J%%#9uBLhAu%A",
+    "created_at": "2025-12-08T21:50:24.179620"
+  },
+  {
+    "id": 2,
+    "username": "user4153",
+    "email": "user2@qa.test",
+    "password": "7tiaRV!G6fq6wXgp4*",
+    "created_at": "2025-12-08T21:50:24.179642"
+  },
+  {
+    "id": 3,
+    "username": "user6000",
+    "email": "user3@qa.test",
+    "password": "ExO%C2jibz4n*F4Bl$",
+    "created_at": "2025-12-08T21:50:24.179649"
+  },
+  {
+    "id": 4,
+    "username": "user6864",
+    "email": "user4@qa.test",
+    "password": "#sP*lkI@QAXBiJ1B6U",
+    "created_at": "2025-12-08T21:50:24.179655"
+  },
+  {
+    "id": 5,
+    "username": "user3075",
+    "email": "user5@qa.test",
+    "password": "bM8vCvo!EXTPFcoTjJ",
+    "created_at": "2025-12-08T21:50:24.179666"
+  },
+  {
+    "id": 6,
+    "username": "user3002",
+    "email": "user6@qa.test",
+    "password": "t#J5FhBC6L#KH3uVr1",
+    "created_at": "2025-12-08T21:50:24.179673"
+  },
+  {
+    "id": 7,
+    "username": "user5677",
+    "email": "user7@qa.test",
+    "password": "Uqh*Gc@wo5PO^Nyozb",
+    "created_at": "2025-12-08T21:50:24.179679"
+  },
+  {
+    "id": 8,
+    "username": "user9809",
+    "email": "user8@qa.test",
+    "password": "#0kz*aAxjqNLVz*IUD",
+    "created_at": "2025-12-08T21:50:24.179689"
+  },
+  {
+    "id": 9,
+    "username": "user5077",
+    "email": "user9@qa.test",
+    "password": "^O4QL5Twzmhb8AdJaN",
+    "created_at": "2025-12-08T21:50:24.179699"
+  },
+  {
+    "id": 10,
+    "username": "user4757",
+    "email": "user10@qa.test",
+    "password": "1TGgAFvxb7oEnU1j#y",
+    "created_at": "2025-12-08T21:50:24.179705"
+  },
+  {
+    "id": 11,
+    "username": "user4552",
+    "email": "user11@qa.test",
+    "password": "INfUvi3MO@WuKFH&vi",
+    "created_at": "2025-12-08T21:50:24.179711"
+  },
+  {
+    "id": 12,
+    "username": "user1680",
+    "email": "user12@qa.test",
+    "password": "Ei08LQQDU#jDlMz09R",
+    "created_at": "2025-12-08T21:50:24.179717"
+  },
+  {
+    "id": 13,
+    "username": "user8837",
+    "email": "user13@qa.test",
+    "password": "PG&hbPxSBfn41*BsbL",
+    "created_at": "2025-12-08T21:50:24.179722"
+  },
+  {
+    "id": 14,
+    "username": "user8862",
+    "email": "user14@qa.test",
+    "password": "!Hw2CyqhXlo0UnyNpI",
+    "created_at": "2025-12-08T21:50:24.179728"
+  },
+  {
+    "id": 15,
+    "username": "user4803",
+    "email": "user15@qa.test",
+    "password": "wJ9mrrx$^Ls9^Wjj99",
+    "created_at": "2025-12-08T21:50:24.179735"
+  },
+  {
+    "id": 16,
+    "username": "user6713",
+    "email": "user16@qa.test",
+    "password": "5J5sQp8V9YJZcd^QI5",
+    "created_at": "2025-12-08T21:50:24.179740"
+  },
+  {
+    "id": 17,
+    "username": "user4044",
+    "email": "user17@qa.test",
+    "password": "ICZEYYT@@@IZjpZ&B4",
+    "created_at": "2025-12-08T21:50:24.179746"
+  },
+  {
+    "id": 18,
+    "username": "user8793",
+    "email": "user18@qa.test",
+    "password": "GL0#^PqfuHAZjcuj1S",
+    "created_at": "2025-12-08T21:50:24.179752"
+  },
+  {
+    "id": 19,
+    "username": "user6851",
+    "email": "user19@qa.test",
+    "password": "MQe!ig$P6Nd22MaKMi",
+    "created_at": "2025-12-08T21:50:24.179757"
+  },
+  {
+    "id": 20,
+    "username": "user4196",
+    "email": "user20@qa.test",
+    "password": "IgH$aXuWPz5H09!hvJ",
+    "created_at": "2025-12-08T21:50:24.179763"
+  }
+]
