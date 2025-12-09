@@ -9,7 +9,7 @@ import random
 from collections import Counter
 import string
 
-# 1. Senior-grade strong password generator
+# 1. Strong password generator
 
 
 def strong_password(length: int = 18) -> str:
