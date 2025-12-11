@@ -1,0 +1,15 @@
+{
+  "date": "2025-12-10 21:44",
+  "total_tests": 100,
+  "pass_rate": 82.0,
+  "total_seconds": 733.37,
+  "avg_seconds": 7.33,
+  "failed": 18,
+  "slowest_5_sec": [
+    34.67,
+    28.03,
+    27.94,
+    26.97,
+    24.08
+  ]
+}
