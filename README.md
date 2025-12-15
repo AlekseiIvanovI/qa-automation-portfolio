@@ -8,7 +8,7 @@ Proven track record cutting regression time **35%** with Selenium + Python Page 
 
 | Project | Key Achievement | Tech | Link |
 |---------|-----------------|------|------|
-| Selenium POM Framework | 50+ automated scripts, regression time ↓35% | Python, Selenium, pytest, POM | [selenium-pom-framework](link) |
+| Selenium POM Framework | 50+ automated scripts, regression time ↓35% | Python, Selenium, pytest, POM | [[selenium-pom-framework](https://github.com/AlekseiIvanovI/selenium-pom-framework)](link) |
 | API Load Testing | Identified bottlenecks → response time ↓25% | Postman, Newman, Collection Runner | [api-load-testing-postman](link) |
 | SQL Test Data Validation | 25+ production-grade validation queries | Python + SQLite, pandas | [sql-test-queries](link) |
 | Dockerized QA Environment | Setup time ↓50%, fully reproducible | Docker, docker-compose, Selenium Grid | [dockerized-qa-environment](link) |
