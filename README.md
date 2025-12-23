@@ -4,7 +4,7 @@
 **Senior/Mid-Level QA Automation Engineer**  
 Proven track record cutting regression time **35%** with Selenium + Python Page Object Model frameworks, reducing test 50% environment setup time via Docker, and improving API response time **25%** with Postman load tests.
 
-### Live Projects (All built from scratch in 60 days – Nov 2025 → Jan 2026)
+### Live Projects (All built from scratch – Nov 2025 → Jan 2026)
 
 | Project | Key Achievement | Tech | Link |
 |---------|-----------------|------|------|
