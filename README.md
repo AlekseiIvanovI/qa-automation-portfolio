@@ -11,7 +11,7 @@ Proven track record cutting regression time **35%** with Selenium + Python Page 
 | Selenium POM Framework | 50+ automated scripts, regression time ↓35% | Python, Selenium, pytest, POM | [selenium-pom-framework](https://github.com/AlekseiIvanovI/selenium-pom-framework) |
 | API Load Testing | Identified bottlenecks → response time ↓25% | Postman, Newman, Collection Runner | [api-load-testing-postman](https://github.com/AlekseiIvanovI/api-load-testing-postman) |
 | SQL Test Data Validation | 25+ production-grade validation queries | Python + SQLite, pandas | [sql-test-queries](https://github.com/AlekseiIvanovI/sql-test-queries) |
-| Dockerized QA Environment | Setup time ↓50%, fully reproducible | Docker, docker-compose, Selenium Grid | [dockerized-qa-environment](link) |
+| Dockerized QA Environment | Setup time ↓50%, fully reproducible | Docker, docker-compose, Selenium Grid | [dockerized-qa-environment](https://github.com/AlekseiIvanovI/dockerized-qa-environment)|
 | JIRA + Agile Optimization | Test cycle time ↓20% | JIRA workflows, dashboards, burndown | [jira-agile-workflows](https://github.com/AlekseiIvanovI/jira-agile-workflows) |
 | End-to-End QA Pipeline | One-click execution: UI → API → DB → JIRA | All tools integrated | [end-to-end-qa-pipeline](link) |
 
