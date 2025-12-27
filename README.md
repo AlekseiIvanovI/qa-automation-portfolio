@@ -13,7 +13,7 @@ Proven track record cutting regression time **35%** with Selenium + Python Page 
 | SQL Test Data Validation | 25+ production-grade validation queries | Python + SQLite, pandas | [sql-test-queries](https://github.com/AlekseiIvanovI/sql-test-queries) |
 | Dockerized QA Environment | Setup time ↓50%, fully reproducible | Docker, docker-compose, Selenium Grid | [dockerized-qa-environment](https://github.com/AlekseiIvanovI/dockerized-qa-environment)|
 | JIRA + Agile Optimization | Test cycle time ↓20% | JIRA workflows, dashboards, burndown | [jira-agile-workflows](https://github.com/AlekseiIvanovI/jira-agile-workflows) |
-| End-to-End QA Pipeline | One-click execution: UI → API → DB → JIRA | All tools integrated | [end-to-end-qa-pipeline](link) |
+| End-to-End QA Pipeline | One-click execution: UI → API → DB → JIRA | All tools integrated | [end-to-end-qa-pipeline](https://github.com/AlekseiIvanovI/end-to-end-qa-pipeline) |
 
 **Tools:** Selenium WebDriver · Python · Postman · Docker · SQL · JIRA · Git · pytest · Agile/Scrum  
 **Always open to remote or hybrid roles in the US**  
